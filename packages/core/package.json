@@ -1,6 +1,6 @@
 {
   "name": "@sx-lerna-cli/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "sx-lerna-cli core",
   "author": "闫强 <yanqiang@spap.com>",
   "homepage": "https://github.com/hzp201314/web#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/hzp201314/web/issues"
   },
   "dependencies": {
-    "@sx-lerna-cli/utils": "^0.0.1"
+    "@sx-lerna-cli/utils": "^0.0.2"
   },
   "gitHead": "459803aa78947c0a494530c5192828daeff236fc"
 }
