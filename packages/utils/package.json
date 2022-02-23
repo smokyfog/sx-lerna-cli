@@ -20,8 +20,11 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/hzp201314/web/issues"
   },
-  "gitHead": "a1cf4e087a96bb3898cac7f4d2fef6e75e63f655"
+  "gitHead": "93eb9e46ad5d83c1028661dd35362ef2a14886b0"
 }

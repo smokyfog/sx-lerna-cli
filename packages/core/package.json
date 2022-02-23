@@ -29,5 +29,8 @@
   "dependencies": {
     "@sx-lerna-cli/utils": "^0.0.2"
   },
-  "gitHead": "a1cf4e087a96bb3898cac7f4d2fef6e75e63f655"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "93eb9e46ad5d83c1028661dd35362ef2a14886b0"
 }
