@@ -10,6 +10,9 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "bin": {
+    "sx-lerna-cli": "bin/index.js"
+  },
   "files": [
     "lib"
   ],
@@ -25,5 +28,6 @@
   },
   "dependencies": {
     "@sx-lerna-cli/utils": "^0.0.1"
-  }
+  },
+  "gitHead": "459803aa78947c0a494530c5192828daeff236fc"
 }
