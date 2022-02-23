@@ -1,6 +1,6 @@
 {
   "name": "@sx-lerna-cli/utils",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "闫强 <yanqiang@spap.com>",
   "homepage": "https://github.com/hzp201314/web#readme",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/hzp201314/web/issues"
   },
-  "gitHead": "459803aa78947c0a494530c5192828daeff236fc"
+  "gitHead": "a1cf4e087a96bb3898cac7f4d2fef6e75e63f655"
 }
